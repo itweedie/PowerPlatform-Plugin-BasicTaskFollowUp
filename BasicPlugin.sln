@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicPlugin", "BasicPlugin\BasicPlugin.csproj", "{246711B2-E754-49E4-8FB6-0001F16920FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{246711B2-E754-49E4-8FB6-0001F16920FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246711B2-E754-49E4-8FB6-0001F16920FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246711B2-E754-49E4-8FB6-0001F16920FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246711B2-E754-49E4-8FB6-0001F16920FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {341452AB-7877-4AF9-A99F-EFCA34B60AC3}
+	EndGlobalSection
+	GlobalSection(CRMSolutionProperties) = preSolution
+		SolutionIsBoundToCRM = True
+	EndGlobalSection
+EndGlobal
